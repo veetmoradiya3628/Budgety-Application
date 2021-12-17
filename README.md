@@ -1,5 +1,5 @@
 # Budgety-Application
-This is Expance Management kind of application while i have build as part of learning a javaScript
+This is Expance Management kind of application which I have build as a part of learning a JavaScript
 
 <h4>Architecture of Application : </h4>
 <img src="screenshots/app_archietecture.jpg"></img>
